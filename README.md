@@ -39,6 +39,11 @@ pip install --editable ./
 
 ## Training and Evaluation
 
+```sh
+
+./run.sh
+
+```
 
 
 ## Reference
