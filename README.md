@@ -18,8 +18,11 @@ Pytorch 1.2.0
 ## Installation
 
 PyTorch version >= 1.5.0
+
 Python version >= 3.6
+
 For training new models, you'll also need an NVIDIA GPU and NCCL
+
 To install fairseq and develop locally:
 
 ```sh
