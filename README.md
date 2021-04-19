@@ -1,7 +1,8 @@
 # Adversarial-Masking-TransformersforLanguage-Understanding
 
-# Getting Start
+
 ## Environment
+
 The developed environment is listed in below 
 
 OS : Ubuntu 16.04 
