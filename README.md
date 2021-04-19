@@ -6,6 +6,8 @@
   
   Then, how do we evaluate if a computer know the meaning of a sentence. In fact, nowadays, we don't have an universal neural network that can fully understand the meaning of a sequence. But we can view the meaning of "understanding" in different perspective. For instance, people have the ability to guess the possible elements in an incomplete sequence, answer a question, know if the two sequences are similar etc. These are individual tasks in current NLP research. Though it is possible that we share some modules in different tasks, it is still not an universal network. Despite no universal network for understanding the meaning of a sequence, there is a special network called "Language model" widely used in most of these tasks.
 
+![image](https://github.com/NCTUMLlab/Adversarial-Masking-TransformersforLanguage-Understanding/blob/main/amt_tm.png)
+
 ## Environment
 
 The developed environment is listed in below 
