@@ -1,4 +1,4 @@
-# Adversarial-Masking-TransformersforLanguage-Understanding
+# Adversarial-Masking-Transformers-for-Language-Understanding
 
   The Masked Language Model(MLM) uses a random method to mask and replace 15$\%$ of the words in the text. Then, learn to predict mask words through the model, let the model learn two-way understanding, and make predictions through context. But because the words are mask randomly,It may mask some words that can be predicted without understanding the context, but this is what we do not want. We hope that each prediction can be completed by the model by understanding the context.Therefore, an effective way is needed to control the words that need to be mask in the text, and the mask words are helpful for the model to learn and understand the context. Therefore, we proposed Adversarial Masking Model.
   
